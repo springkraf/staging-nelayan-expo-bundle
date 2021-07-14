@@ -1,0 +1,22 @@
+{
+  "name": "Nelayan",
+  "displayName": "Nelayan",
+  "expo": {
+    "name": "nelayan",
+    "slug": "nelayan",
+    "version": "1.0.2",
+    "runtimeVersion": "1",
+    "assetBundlePatterns": [
+      "src/assets/**/*",
+      "packages/ui-lib-native/assets/**/*"
+    ],
+    "ios": {
+      "infoPlist": {
+        "UIUserInterfaceStyle": "Light"
+      }
+    },
+    "updates": {
+      "enabled": true
+    }
+  }
+}
