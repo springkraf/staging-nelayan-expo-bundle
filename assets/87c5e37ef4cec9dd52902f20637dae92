@@ -1,0 +1,22 @@
+{
+  "name": "Nelayan",
+  "displayName": "Nelayan",
+  "expo": {
+    "name": "nelayan",
+    "slug": "nelayan",
+    "runtimeVersion": "1",
+    "privacy": "unlisted",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "infoPlist": {
+        "UIUserInterfaceStyle": "Light"
+      }
+    },
+    "updates": {
+      "checkAutomatically": "ON_ERROR_RECOVERY",
+      "enabled": true
+    }
+  }
+}
